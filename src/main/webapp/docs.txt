@@ -1,0 +1,22 @@
+- user đăng ký tài khoản -> ok
+
+- đăng nhập, đăng xuất user -> ok
+
+- đăng nhập đăng xuất admin -> ok
+
+- admin thêm sp -> ok
+
+- hiển thị sản phẩm của từng user -> ok
+
+- admin cập nhật sp -> ok
+
+- admin xóa sp -> ok
+
+- user thêm giỏ hàng -> ok
+
+- user xóa giỏ hàng -> ok
+
+- user submit form mua hàng 
+
+- admin hiển thị đơn hàng
+

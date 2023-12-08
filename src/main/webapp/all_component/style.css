@@ -1,0 +1,31 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Sep 7, 2023, 10:40:16 AM
+    Author     : b2004803
+*/
+
+
+.navbar .nav-item:hover .nav-link {
+	background-color: #fff;
+	color: black;
+	border-radius: 10px;
+	text-decoration: none;
+}
+
+.nav-link {
+	margin-right: 20px;	
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: black;
+}
+
